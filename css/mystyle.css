@@ -1,0 +1,27 @@
+.bg-head{background: #096386;  font-family: 'Just Another Hand', cursive;}
+
+.my-name{font-family: 'Playfair Display', serif;}
+
+.bg-body{background-color: #c8e6f5;}
+
+.main-view{margin-top: 0px;}
+
+.bg-myname{background-color:#000033;}
+
+.bg-heading{background-color:#053f5e;}
+
+.bg-home{background-color:#480032;}
+
+.bg-education{background-color: #00028c;}
+
+.bg-work{background-color: #3426a4;}
+
+.bg-contact{background-color: #207dff;}
+
+.my-img{width:100%;height:100%;}
+
+.font-blocks{width:25%;}
+
+@media only screen and (min-width: 1198px){.font-blocks{padding: 53.8px 0px !important;}}
+
+.work-img{width:100%;height: 250px;}
